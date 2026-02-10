@@ -3,3 +3,6 @@ We are the premier autonomous vehicles club within the San Diego Community Colle
 
 ## 🤝 Join Us
 If you're here, you may be interested in our Software, Electrical, Mechanical, or Business team. Learn more about us and joining the club [on our Discord Community](https://discord.gg/javuzE2f4r).
+
+## 📄 Organization Access
+If you're a club member and need to be invited to this organization, please contact the current Software Lead (see the Notion People page).
